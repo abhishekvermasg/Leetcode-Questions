@@ -1,6 +1,6 @@
 # Leetcode-Questions
 
-- [Programming Skills](https://github.com/abhishekvermasg/Leetcode-Questions/blob/main/README.mdd#programming-skills)
+- [Programming Skills](https://github.com/abhishekvermasg/Leetcode-Questions/blob/main/README.md#programming-skills)
 - [Data Structure](https://github.com/abhishekvermasg/Leetcode-Questions/blob/main/README.md#data-structure)
 - [Algorithm](https://github.com/abhishekvermasg/Leetcode-Questions/blob/main/README.md#algorithm)
 - [Graph Theory](https://github.com/abhishekvermasg/Leetcode-Questions/blob/main/README.md#graph-theory)
