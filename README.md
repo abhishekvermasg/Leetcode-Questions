@@ -1,6 +1,6 @@
 # Leetcode-Questions
 
-#Programming Skills
+# Programming Skills
 
 1523. Count Odd Numbers in an Interval Range
 1491. Average Salary Excluding the Minimum and Maximum Salary
@@ -133,7 +133,7 @@
 715. Range Module
 
 
-#Data Structure
+# Data Structure
 
 217. Contains Duplicate	
 53. Maximum Subarray	
@@ -277,7 +277,7 @@
 642. Design Search Autocomplete System
 
 
-#Algorithm
+# Algorithm
 
 704. Binary Search
 278. First Bad Version
@@ -419,7 +419,7 @@
 460. LFU Cache
 
 
-Graph Theory
+# Graph Theory
 
 733. Flood Fill	
 200. Number of Islands	
@@ -508,7 +508,7 @@ Graph Theory
 1192. Critical Connections in a Network
 
 
-#Dynamic Programming
+# Dynamic Programming
 
 509. Fibonacci Number
 1137. N-th Tribonacci Number
@@ -704,7 +704,7 @@ Graph Theory
 1240. Tiling a Rectangle with the Fewest Squares
 
 
-#Binary Search
+# Binary Search
 
 704. Binary Search
 374. Guess Number Higher or Lower
@@ -818,7 +818,7 @@ Graph Theory
 1782. Count Pairs Of Nodes
 
 
-#SQL
+# SQL
 
 595. Big Countries
 1757. Recyclable and Low Fat Products
@@ -919,7 +919,7 @@ Graph Theory
 2010. The Number of Seniors and Juniors to Join the Company II
 
 
-#Leetcode 75
+# Leetcode 75
 
 1480. Running Sum of 1d Array
 724. Find Pivot Index
